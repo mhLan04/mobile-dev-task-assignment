@@ -1,0 +1,14 @@
+# Exclude environment files
+.env
+
+# Exclude dependency directories
+node_modules/
+venv/
+
+# Exclude build output
+dist/
+build/
+
+# Exclude system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\taskCRUD\\ChecktaskListproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|d:\\taskcrud\\checktasklistproject\\checktasklistproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|solutionrelative:checktasklistproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|d:\\taskcrud\\checktasklistproject\\checktasklistproject\\models\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|solutionrelative:checktasklistproject\\models\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|d:\\taskcrud\\checktasklistproject\\checktasklistproject\\models\\dtos\\taskdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|solutionrelative:checktasklistproject\\models\\dtos\\taskdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|d:\\taskcrud\\checktasklistproject\\checktasklistproject\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|solutionrelative:checktasklistproject\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|d:\\taskcrud\\checktasklistproject\\checktasklistproject\\models\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|solutionrelative:checktasklistproject\\models\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|d:\\taskcrud\\checktasklistproject\\checktasklistproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|solutionrelative:checktasklistproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|d:\\taskcrud\\checktasklistproject\\checktasklistproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|solutionrelative:checktasklistproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|d:\\taskcrud\\checktasklistproject\\checktasklistproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|solutionrelative:checktasklistproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|d:\\taskcrud\\checktasklistproject\\checktasklistproject\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B9247E5-6F5A-97D0-84F2-FD049377BEF2}|ChecktaskListproject\\ChecktaskListproject.csproj|solutionrelative:checktasklistproject\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskDtos.cs",
+              "DocumentMoniker": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Models\\DTOs\\TaskDtos.cs",
+              "RelativeDocumentMoniker": "ChecktaskListproject\\Models\\DTOs\\TaskDtos.cs",
+              "ToolTip": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Models\\DTOs\\TaskDtos.cs",
+              "RelativeToolTip": "ChecktaskListproject\\Models\\DTOs\\TaskDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T11:45:21.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Program.cs",
+              "RelativeDocumentMoniker": "ChecktaskListproject\\Program.cs",
+              "ToolTip": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Program.cs",
+              "RelativeToolTip": "ChecktaskListproject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T11:12:05.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Models\\Enums\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "ChecktaskListproject\\Models\\Enums\\TaskPriority.cs",
+              "ToolTip": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Models\\Enums\\TaskPriority.cs",
+              "RelativeToolTip": "ChecktaskListproject\\Models\\Enums\\TaskPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T04:17:28.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "ChecktaskListproject\\Services\\TaskService.cs",
+              "ToolTip": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Services\\TaskService.cs",
+              "RelativeToolTip": "ChecktaskListproject\\Services\\TaskService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T04:01:40.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Models\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "ChecktaskListproject\\Models\\Entities\\TaskItem.cs",
+              "ToolTip": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Models\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "ChecktaskListproject\\Models\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T03:59:46.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ChecktaskListproject\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ChecktaskListproject\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T04:17:15.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ChecktaskListproject\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ChecktaskListproject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-31T12:20:37.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\appsettings.json",
+              "RelativeDocumentMoniker": "ChecktaskListproject\\appsettings.json",
+              "ToolTip": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\appsettings.json",
+              "RelativeToolTip": "ChecktaskListproject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-31T11:21:46.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "ChecktaskListproject\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\taskCRUD\\ChecktaskListproject\\ChecktaskListproject\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "ChecktaskListproject\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T11:11:22.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
