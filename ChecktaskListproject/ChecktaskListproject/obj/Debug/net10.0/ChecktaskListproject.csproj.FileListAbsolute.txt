@@ -185,3 +185,4 @@ D:\taskCRUD\ChecktaskListproject\ChecktaskListproject\obj\Debug\net10.0\refint\C
 D:\taskCRUD\ChecktaskListproject\ChecktaskListproject\obj\Debug\net10.0\ChecktaskListproject.pdb
 D:\taskCRUD\ChecktaskListproject\ChecktaskListproject\obj\Debug\net10.0\ChecktaskListproject.genruntimeconfig.cache
 D:\taskCRUD\ChecktaskListproject\ChecktaskListproject\obj\Debug\net10.0\ref\ChecktaskListproject.dll
+D:\taskCRUD\ChecktaskListproject\ChecktaskListproject\obj\Debug\net10.0\ChecktaskListproject.sourcelink.json
